@@ -1,0 +1,8 @@
+### Situation
+The regional operational analysis recorded a raw total revenue of INR 99860.2, which adjusts to a cleaned total revenue of INR 97358.3 following a duplicate reconciliation delta of INR 2501.9. True top-line peak performance occurred in 2026-03 with revenue of INR 20318.9.
+
+### Complication
+Revenue reporting in 2026-01 was distorted by an outlier inflation showing an apparent revenue of INR 29582.1 against a corrected revenue of INR 11637.1. Furthermore, return rates across payment methods show significant divergence with COD at 44.4%, UPI at 18.9%, and CARD at 14.7%. The highest risk segment is concentrated in COD across Tier 2 cities, experiencing a return rate of 54.5%.
+
+### Resolution
+Regional operations and finance heads must adjust historical baseline forecasting to reflect the corrected 2026-01 revenue figures and institute tighter verification protocols for COD orders in Tier 2 markets to mitigate return losses.
