@@ -9,7 +9,7 @@ Original file is located at
 
 import json
 
-file_path = 'narrator/findings.json'
+file_path = 'findings.json'
 
 try:
     with open(file_path, 'r', encoding='utf-8') as file:
